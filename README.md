@@ -63,7 +63,15 @@ Under this step I was able to put answers to the following questions using pivot
  13. Which categories have products with the highest discounts? 
  14. Identify the top 5 products in terms of rating and number of reviews combined.
 
-![pivot table](https://github.com/user-attachments/assets/08631007-f836-4e7f-a3c0-1dae46e6bc85)
+![ACTUAL](https://github.com/user-attachments/assets/994693fe-602a-4c07-9699-8c029924717f)
 
 #### Data Visualisation
+using the visualization cats and bars, I was able to produce a visual representation of my analysis which displayed some essential exploratory information.
+
+![ACTUAL 2](https://github.com/user-attachments/assets/8fa80956-e343-4a92-b074-0697d3e9b8b6)
+
+
+
+
+
 
