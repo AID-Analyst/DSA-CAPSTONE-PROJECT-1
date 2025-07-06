@@ -75,11 +75,11 @@ using the visualization cats and bars, I was able to produce a visual representa
 
 
 ### RESULT AND CONCLUSION
-My analysis shows that the category **Electronics** have the highest sales and review and this can be due to the fact that elaactronics have a significant percentage of discount.
+My analysis shows that the category **Electronics** have the highest sales and review and this can be due to the fact that electronics have a significant percentage of discount.
 
 ![i need it](https://github.com/user-attachments/assets/d40684de-c6a6-4d44-9e09-0ea1b43f546f)
 
-Also, it is expressly seen that the category **Toys and Games** is not selling which can be due to the fact that it has no discount at all and this may eventually make customers to by from other companies whose Toys and Games seem lesser to them.
+Also, it is expressly seen that the category **Toys and Games** is not selling which can be due to the fact that it has no discount at all and this may eventually make customers to buy from other companies whose Toys and Games seem lesser to them.
 
 ### Recommendation
 I would therefore recommend that **Amazon** should look into how they can discount the price of **Toys and Games** so that the sales of this category of product can increase.
