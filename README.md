@@ -63,12 +63,26 @@ Under this step I was able to put answers to the following questions using pivot
  13. Which categories have products with the highest discounts? 
  14. Identify the top 5 products in terms of rating and number of reviews combined.
 
-![ACTUAL](https://github.com/user-attachments/assets/994693fe-602a-4c07-9699-8c029924717f)
+![STANDARD 1](https://github.com/user-attachments/assets/7dfc97c1-eeba-4eee-8dde-f734aa50423d)
+
+![STANDARD 2](https://github.com/user-attachments/assets/edc1961d-7546-4dc3-adba-740d5f4022a8)
+
 
 #### Data Visualisation
 using the visualization cats and bars, I was able to produce a visual representation of my analysis which displayed some essential exploratory information.
 
 ![ACTUAL 2](https://github.com/user-attachments/assets/8fa80956-e343-4a92-b074-0697d3e9b8b6)
+
+
+### RESULT AND CONCLUSION
+My analysis shows that the category **Electronics** have the highest sales and review and this can be due to the fact that elaactronics have a significant percentage of discount.
+
+![i need it](https://github.com/user-attachments/assets/d40684de-c6a6-4d44-9e09-0ea1b43f546f)
+
+Also, it is expressly seen that the category **Toys and Games** is not selling which can be due to the fact that it has no discount at all and this may eventually make customers to by from other companies whose Toys and Games seem lesser to them.
+
+### Recommendation
+I would therefore recommend that **Amazon** should look into how they can discount the price of **Toys and Games** so that the sales of this category of product can increase.
 
 
 
